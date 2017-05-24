@@ -39,7 +39,7 @@ public class Gameover : MonoBehaviour {
 
     // Player presses retry button
 	public void RetryOn() {
-		SceneManager.LoadScene ("Game");
+		SceneManager.LoadScene ("World");
 	}
 
     // Player presses meny button

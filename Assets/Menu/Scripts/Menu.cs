@@ -26,7 +26,7 @@ public class Menu : MonoBehaviour {
 
     // Player starts game
 	public void StartOn() {
-		SceneManager.LoadScene ("Game");
+		SceneManager.LoadScene ("World");
 	}
 
     // Player presses about button
