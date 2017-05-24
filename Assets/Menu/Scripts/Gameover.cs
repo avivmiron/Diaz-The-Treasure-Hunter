@@ -1,8 +1,20 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: Gameover.cs
+* author: Ofir Miron, Aviv Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This is a script that controls the gameover screen.
+* It shows the correct achievement after the user loses/wins
+*
+****************************************************************/ 
+
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-// This is a script that controls the gameover screen. It shows the correct achievement after the user loses/wins
 public class Gameover : MonoBehaviour {
 
     // UI elements

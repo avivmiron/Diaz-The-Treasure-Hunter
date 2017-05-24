@@ -1,6 +1,17 @@
+/***************************************************************
+* file: MouseLook.cs
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This script governs the mouse look of the first person view.
+*
+****************************************************************/ 
+
 using UnityEngine;
 
-// This script will govern the mouse look
 public class MouseLook : MonoBehaviour {
 
     // Rotation axes

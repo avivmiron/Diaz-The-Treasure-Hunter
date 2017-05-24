@@ -1,4 +1,16 @@
-﻿// Gun movment
+﻿/***************************************************************
+* file: AnimationsController.js
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This class is responsible for controlling the player movement animations.
+*
+****************************************************************/ 
+
+// Gun movment
 private var MoveAmount : float = 1;
 private var MoveSpeed : float = 2;
 private var MoveOnX : float;

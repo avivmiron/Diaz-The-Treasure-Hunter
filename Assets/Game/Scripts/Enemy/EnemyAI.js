@@ -1,3 +1,15 @@
+/***************************************************************
+* file: EnemyAI.js
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This is a script that controls the A.I. behaivor of the enemies.
+*
+****************************************************************/ 
+
 // Controllers
 var target : Transform;
 var controller : CharacterController;

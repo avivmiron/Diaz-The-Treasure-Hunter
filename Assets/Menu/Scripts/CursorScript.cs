@@ -1,6 +1,17 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: CursorScript.cs
+* author: Ofir Miron, Aviv Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This class is used to replace the default system cursor
+*
+****************************************************************/ 
 
-// This class is used to replace the default system cursor with a new one
+using UnityEngine;
+
 public class CursorScript : MonoBehaviour {
 
     // Cursor properties

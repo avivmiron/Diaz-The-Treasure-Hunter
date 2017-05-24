@@ -1,3 +1,16 @@
+/***************************************************************
+* file: PlayerMovement.js
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This class is responsible for the player movement,
+* including running and jumping.
+*
+****************************************************************/ 
+
 // Default movement constants
 private var walkSpeed = 12.0;
 private var runSpeed = 18.0;

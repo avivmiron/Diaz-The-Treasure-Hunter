@@ -1,6 +1,18 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: PauseMenu.cs
+* author: Ofir Miron, Aviv Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This script controls the pause menu,
+* and stops the game from running until it is resumed.
+*
+****************************************************************/ 
 
-// This script controls the pause menu
+using UnityEngine;
+
 public class PauseMenu : MonoBehaviour {
 
     // Pause canvas
