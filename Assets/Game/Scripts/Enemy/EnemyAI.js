@@ -21,9 +21,9 @@ private var attackRepeatTime = 1.5;
 
 // Distances and speed
 private var lookAtDistance = 25.0;
-private var chaseRange = 15.0;
+private var chaseRange = 20.0;
 private var attackRange = 3;
-private var moveSpeed = 5.0;
+private var moveSpeed = 11.9;
 private var damping = 6.0;
 
 // Other

@@ -12,9 +12,9 @@
 ****************************************************************/ 
 
 // Default movement constants
-private var walkSpeed = 12.0;
-private var runSpeed = 18.0;
-private var jumpSpeed = 20.0;
+private var walkSpeed = 7.5;
+private var runSpeed = 12.0;
+private var jumpSpeed = 15.0;
 private var gravity = 50.0;
 
 // Movememnt
@@ -40,8 +40,7 @@ function FixedUpdate() {
 		var inputModifyFactor = (inputX != 0.0 && inputY != 0.0)? .7071 : 1.0;
 
 		// Movement speed
-		if (Input.GetButton("Run"))
-		{
+		if (Input.GetButton("Run")) {
 			speed = runSpeed;
 		}
 		else {
