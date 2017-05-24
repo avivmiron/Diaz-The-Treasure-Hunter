@@ -1,4 +1,6 @@
-/[Ll]ibrary/
+/[Ll]ibrary/metadata
+/[Ll]ibrary/ShaderCache
 /[Tt]emp/
+/[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
