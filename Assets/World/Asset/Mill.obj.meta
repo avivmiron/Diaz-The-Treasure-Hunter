@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 014577c2adfb9b6468589ec5b6603806
+timeCreated: 1495135672
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cube1_default
+    100002: cube1_sep29_default
+    100004: cube1_sep40_default
+    100006: cube1_sep41_default
+    100008: cube1_sep42_default
+    100010: cube1_sep43_default
+    100012: cube1_sep44_default
+    100014: cube1_sep45_default
+    100016: cube1_sep46_default
+    100018: cube1_sep47_default
+    100020: cube1_sep48_default
+    100022: cube1_sep49_default
+    100024: cube1_sep50_default
+    100026: cube1_sep51_default
+    100028: cube1_sep52_default3
+    100030: cube1_sep53_default4
+    100032: cube1_sep54_default5
+    100034: cube1_sep55_default6
+    100036: cube1_sep56_default6
+    100038: cube1_sep57_default6
+    100040: cube1_sep58_default6
+    100042: cube1_sep59_default6
+    100044: cube1_sep60_default6
+    100046: cube1_sep61_default6
+    100048: cube1_sep62_default2
+    100050: cube1_sep63_default
+    100052: cube1_sep68_default
+    100054: lettres_default
+    100056: //RootNode
+    100058: vis_default
+    400000: cube1_default
+    400002: cube1_sep29_default
+    400004: cube1_sep40_default
+    400006: cube1_sep41_default
+    400008: cube1_sep42_default
+    400010: cube1_sep43_default
+    400012: cube1_sep44_default
+    400014: cube1_sep45_default
+    400016: cube1_sep46_default
+    400018: cube1_sep47_default
+    400020: cube1_sep48_default
+    400022: cube1_sep49_default
+    400024: cube1_sep50_default
+    400026: cube1_sep51_default
+    400028: cube1_sep52_default3
+    400030: cube1_sep53_default4
+    400032: cube1_sep54_default5
+    400034: cube1_sep55_default6
+    400036: cube1_sep56_default6
+    400038: cube1_sep57_default6
+    400040: cube1_sep58_default6
+    400042: cube1_sep59_default6
+    400044: cube1_sep60_default6
+    400046: cube1_sep61_default6
+    400048: cube1_sep62_default2
+    400050: cube1_sep63_default
+    400052: cube1_sep68_default
+    400054: lettres_default
+    400056: //RootNode
+    400058: vis_default
+    2300000: cube1_default
+    2300002: cube1_sep29_default
+    2300004: cube1_sep40_default
+    2300006: cube1_sep41_default
+    2300008: cube1_sep42_default
+    2300010: cube1_sep43_default
+    2300012: cube1_sep44_default
+    2300014: cube1_sep45_default
+    2300016: cube1_sep46_default
+    2300018: cube1_sep47_default
+    2300020: cube1_sep48_default
+    2300022: cube1_sep49_default
+    2300024: cube1_sep50_default
+    2300026: cube1_sep51_default
+    2300028: cube1_sep52_default3
+    2300030: cube1_sep53_default4
+    2300032: cube1_sep54_default5
+    2300034: cube1_sep55_default6
+    2300036: cube1_sep56_default6
+    2300038: cube1_sep57_default6
+    2300040: cube1_sep58_default6
+    2300042: cube1_sep59_default6
+    2300044: cube1_sep60_default6
+    2300046: cube1_sep61_default6
+    2300048: cube1_sep62_default2
+    2300050: cube1_sep63_default
+    2300052: cube1_sep68_default
+    2300054: lettres_default
+    2300056: vis_default
+    3300000: cube1_default
+    3300002: cube1_sep29_default
+    3300004: cube1_sep40_default
+    3300006: cube1_sep41_default
+    3300008: cube1_sep42_default
+    3300010: cube1_sep43_default
+    3300012: cube1_sep44_default
+    3300014: cube1_sep45_default
+    3300016: cube1_sep46_default
+    3300018: cube1_sep47_default
+    3300020: cube1_sep48_default
+    3300022: cube1_sep49_default
+    3300024: cube1_sep50_default
+    3300026: cube1_sep51_default
+    3300028: cube1_sep52_default3
+    3300030: cube1_sep53_default4
+    3300032: cube1_sep54_default5
+    3300034: cube1_sep55_default6
+    3300036: cube1_sep56_default6
+    3300038: cube1_sep57_default6
+    3300040: cube1_sep58_default6
+    3300042: cube1_sep59_default6
+    3300044: cube1_sep60_default6
+    3300046: cube1_sep61_default6
+    3300048: cube1_sep62_default2
+    3300050: cube1_sep63_default
+    3300052: cube1_sep68_default
+    3300054: lettres_default
+    3300056: vis_default
+    4300000: cube1_default
+    4300002: cube1_sep29_default
+    4300004: cube1_sep40_default
+    4300006: cube1_sep41_default
+    4300008: cube1_sep42_default
+    4300010: cube1_sep43_default
+    4300012: cube1_sep44_default
+    4300014: cube1_sep45_default
+    4300016: cube1_sep46_default
+    4300018: cube1_sep47_default
+    4300020: cube1_sep48_default
+    4300022: cube1_sep49_default
+    4300024: cube1_sep50_default
+    4300026: cube1_sep51_default
+    4300028: cube1_sep52_default3
+    4300030: cube1_sep53_default4
+    4300032: cube1_sep54_default5
+    4300034: cube1_sep55_default6
+    4300036: cube1_sep56_default6
+    4300038: cube1_sep57_default6
+    4300040: cube1_sep58_default6
+    4300042: cube1_sep59_default6
+    4300044: cube1_sep60_default6
+    4300046: cube1_sep61_default6
+    4300048: cube1_sep62_default2
+    4300050: cube1_sep63_default
+    4300052: cube1_sep68_default
+    4300054: lettres_default
+    4300056: vis_default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
