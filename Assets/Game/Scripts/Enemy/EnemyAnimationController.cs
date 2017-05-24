@@ -1,6 +1,17 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: EnemyAnimationController.cs
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This class is responsible for controlling the enemy animations
+*
+****************************************************************/ 
 
-// This class is responsible for controlling the enemy animations
+using UnityEngine;
+
 public class EnemyAnimationController : MonoBehaviour {
 
 	// List of all enemy animations

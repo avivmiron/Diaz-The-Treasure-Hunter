@@ -1,7 +1,19 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: Menu.cs
+* author: Ofir Miron, Aviv Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This is a script that controls the menu screen and transitions
+* to the about screen, how to play screen, and game.
+*
+****************************************************************/ 
+
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
-// This is a script that controls the menu screen.
 public class Menu : MonoBehaviour {
 
     // UI elements

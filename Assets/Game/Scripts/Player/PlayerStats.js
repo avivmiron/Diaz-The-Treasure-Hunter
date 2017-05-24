@@ -1,3 +1,16 @@
+/***************************************************************
+* file: PlayerStats.js
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This class is responsible for controlling the player damage system
+* and showing the blood texture when the user is hit.
+*
+****************************************************************/ 
+
 // Import
 import UnityEngine.SceneManagement;
 

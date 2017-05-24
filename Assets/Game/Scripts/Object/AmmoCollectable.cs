@@ -1,6 +1,18 @@
-﻿using UnityEngine;
+﻿/***************************************************************
+* file: AmmoCollectable.cs
+* author: Aviv Miron, Ofir Miron
+* class: CS470 Game Development
+*
+* assignment: Final Project
+* date last modified: 5/23/2017
+*
+* purpose: This script governs how ammo boxes work.
+* It adds the player more ammo once he/she collides with the ammo box.
+*
+****************************************************************/ 
 
-// This script governs how ammo boxes work
+using UnityEngine;
+
 public class AmmoCollectable : MonoBehaviour {
 
     // Speed of rotation of the ammo box
