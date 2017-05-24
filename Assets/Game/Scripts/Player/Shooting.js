@@ -39,7 +39,7 @@ function Start () {
 	Cam.SetActive(false);
 
 	// Reset ammo count
-	GameManager.ammo = 10;
+	GameManager.ammo = 20;
 }
 
 // Control the player aiming down the sight, firing, and running
