@@ -21,6 +21,8 @@ public class LedgeUncouple : MonoBehaviour {
 	//Method name: OnTriggerEnter
 	//purpose: When the player moves off the moving platform, he should not move with the moving animation.
 	void OnTriggerEnter() {
+		var position = ThePlayer.transform.position;
 		ThePlayer.transform.parent = null;
+		ThePlayer.transform.position = position;
 	}
 }
