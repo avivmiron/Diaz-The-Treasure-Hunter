@@ -47,7 +47,7 @@ function Update () {
  	}
 
  	// Play sprint animation when player starts running
-	else if(Input.GetButtonDown("Run") && movingForward) {
+	else if(Input.GetButtonDown("Run")) {
 	  	GetComponent.<Animation>().Play("Sprint", PlayMode.StopAll);
 	}
 
