@@ -29,6 +29,7 @@ public class PauseMenu : MonoBehaviour {
         // Hide cursor and lock it in the screen.
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
+		Screen.lockCursor = true;
     }
 
     // Listen for the ESC key
@@ -51,6 +52,7 @@ public class PauseMenu : MonoBehaviour {
 		// Show cursor
 		Cursor.visible = true;
 		Cursor.lockState = CursorLockMode.Confined;
+		Screen.lockCursor = false;
 
 		// Show canvas
 		canvas.enabled = true;
@@ -70,6 +72,7 @@ public class PauseMenu : MonoBehaviour {
 		// Hide cursor
 		Cursor.visible = false;
 		Cursor.lockState = CursorLockMode.Locked;
+		Screen.lockCursor = true;
 
 		// Show canvas
 		canvas.enabled = false;
