@@ -15,15 +15,15 @@ var target : Transform;
 var controller : CharacterController;
 
 // Damage and health
-private var health = 300;
-private var damage = 40;
+var health = 300;
+var damage = 40;
 private var attackRepeatTime = 1.5;
 
 // Distances and speed
 public var lookAtDistance = 25.0;
 public var chaseRange = 20.0;
-private var attackRange = 2.5;
-private var moveSpeed = 10.0;
+var attackRange = 2.5;
+var moveSpeed = 10.0;
 private var damping = 6.0;
 
 // Other
