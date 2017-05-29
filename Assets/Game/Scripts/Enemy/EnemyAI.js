@@ -154,7 +154,7 @@ function Kill() {
 		gameObject.GetComponent("EnemyAnimationController").DieAnimation();
 		(gameObject.GetComponent(Rigidbody) as Rigidbody).isKinematic = false;
 
-		// Ignore collisions with player
-		Physics.IgnoreLayerCollision(8, 9);
+		// Change enemy to EnemyDead layer
+		gameObject.layer = 10;
 	}
 }
