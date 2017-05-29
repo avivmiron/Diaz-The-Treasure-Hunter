@@ -42,6 +42,9 @@ public class Collectable : MonoBehaviour {
 			GameManager.progress++;
 			Destroy(gameObject);
 
+			// Add some ammo
+			GameManager.ammo += 20;
+
 			// Check if user beat the game
 			if (GameManager.progress >= 3) {
 				SceneManager.LoadScene("Gameover");

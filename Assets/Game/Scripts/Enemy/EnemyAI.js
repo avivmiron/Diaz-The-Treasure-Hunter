@@ -23,7 +23,7 @@ private var attackRepeatTime = 1.5;
 public var lookAtDistance = 25.0;
 public var chaseRange = 20.0;
 private var attackRange = 2.5;
-private var moveSpeed = 11.0;
+private var moveSpeed = 10.0;
 private var damping = 6.0;
 
 // Other
@@ -135,7 +135,6 @@ function ApplyDamage(damage : int) {
 		// Increase ranges and movement speed after each hit
 		lookAtDistance += 40;
 		chaseRange += 30;
-		moveSpeed += 2;
 
 		// Yield the enemy for 1 second
 		yield WaitForSeconds(1.0);
