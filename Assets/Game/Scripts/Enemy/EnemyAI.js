@@ -28,6 +28,7 @@ private var damping = 6.0;
 
 // Other
 private var gravity : float = 20.0;
+var destroyTime = 60.0;
 
 // Variables
 private var distance;
@@ -153,6 +154,6 @@ function Kill() {
 		// Animate
 		gameObject.GetComponent("EnemyAnimationController").DieAnimation();
 		(gameObject.GetComponent(Rigidbody) as Rigidbody).isKinematic = false;
-		Destroy(gameObject, 60.0);
+		Destroy(gameObject, destroyTime);
 	}
 }
